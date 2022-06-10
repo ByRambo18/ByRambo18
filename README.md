@@ -1,4 +1,4 @@
-### Hey there <img src="https://media4.giphy.com/media/d68IZxVqQI0SeQCo0M/giphy.gif" width="25px">
+### Hey there <img src="https://media4.giphy.com/media/d68IZxVqQI0SeQCo0M/giphy.gif" width="15px">
 
 
 Hi, I'm Adrián Fernández, a young guy passionate about music and basic programming on FiveM and Discord bots in JavaScript, from Spain. I'm a self-taught programmer who started in the programming world a year ago. 
